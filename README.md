@@ -1,1 +1,2 @@
-# Spring_18_CSE_512
+# Spring18 CSE 512
+This folder is for homework submission.
